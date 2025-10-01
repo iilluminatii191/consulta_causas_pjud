@@ -1,0 +1,36 @@
+Entrando sitio pjud.cl
+Se detectó un modal => cerrándolo...
+Modal(es) cerrados ok.
+Clic en "Consulta causas"
+Clic en "Búsqueda por Rut Persona Jurídica"
+DEBUG: Esperando input #rutJur
+DEBUG: Escribiendo RUT, DV, Año
+
+### Procesando Competencia: "Corte Suprema" (value=1) ###
+>>> buscarYProcesar() => competencia="Corte Suprema", seleccionado="Suprema"
+Hizo clic en "Buscar" => Corte Suprema - Suprema
+Loader finalizado => Corte Suprema - Suprema
+Captura => "/Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Screenshots Búsquedas con Causas/Suprema.png"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+    [INFO] Página 1: 6 filas. (Acumulado=6, TotalRecords=6)
+    [INFO] Alcanzado totalRecords (6). Stop paginado.
+Se encontraron 6 resultados => Corte Suprema - Suprema
+
+### Procesando Competencia: "Corte Apelaciones" (value=2) ###
+Cortes en Apelaciones: 17
+
+>> Corte Apelaciones - Seleccionando: C.A. de Arica (value=10)
+>>> buscarYProcesar() => competencia="Corte Apelaciones", seleccionado="C.A. de Arica"
+Hizo clic en "Buscar" => Corte Apelaciones - C.A. de Arica
+Loader finalizado => Corte Apelaciones - C.A. de Arica
+Captura => "/Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Screenshots Búsquedas con Causas/Corte Apelaciones - C.A. de Arica.png"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+    [INFO] Página 1: 5 filas. (Acumulado=5, TotalRecords=5)
+    [INFO] Alcanzado totalRecords (5). Stop paginado.
+Se encontraron 5 resultados => Corte Apelaciones - C.A. de Arica
+
+>> Corte Apelaciones - Seleccionando: C.A. de Iquique (value=11)
+>>> buscarYProcesar() => competencia="Corte Apelaciones", seleccionado="C.A. de Iquique"
+Hizo clic en "Buscar" => Corte Apelaciones - C.A. de Iquique
+Loader finalizado => Corte Apelaciones - C.A. de Iquique
+Captura => "/Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Screenshots Búsquedas con Causas/Corte Apelaciones - C.A. de Iquique.png"

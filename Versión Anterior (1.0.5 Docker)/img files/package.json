@@ -1,0 +1,21 @@
+{
+  "name": "Consultador de Causas Poder Judicial",
+  "version": "Packgs-Upd-1.0.4",
+  "main": "pjud_consulta_causas.js",
+  "scripts": {
+    "start": "node pjud_consulta_causas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hannss Pusch / iilluminatii191",
+  "license": "ISC",
+  "description": "Consulta y descarga datos de causas públicas en el poder judicial en base a RUT y año",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.1.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}

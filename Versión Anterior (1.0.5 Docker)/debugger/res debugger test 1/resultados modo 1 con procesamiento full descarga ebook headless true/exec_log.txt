@@ -1,0 +1,193 @@
+Entrando sitio pjud.cl
+Se detectó un modal => cerrándolo...
+Modal(es) cerrados ok.
+Clic en "Consulta causas"
+Clic en "Búsqueda por Rut Persona Jurídica"
+DEBUG: Esperando input #rutJur
+DEBUG: Escribiendo RUT, DV, Año
+
+### Procesando Competencia: "Corte Suprema" (value=1) ###
+>>> buscarYProcesar() => competencia="Corte Suprema", seleccionado="Suprema"
+Hizo clic en "Buscar" => Corte Suprema - Suprema
+Loader finalizado => Corte Suprema - Suprema
+Captura => "/Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Screenshots Búsquedas con Causas/Suprema.png"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+    [INFO] Página 1: 6 filas. (Acumulado=6, TotalRecords=6)
+    [INFO] Alcanzado totalRecords (6). Stop paginado.
+Se encontraron 6 resultados => Corte Suprema - Suprema
+Procesando causa => RIT=51659-2024, Carat=CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ
+
+
+
+
+  >> procesoCausa(): RIT=51659-2024, Caratulado=CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ
+    [DEBUG] Intento #1 para abrir modal => 51659-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ/Litigantes - 51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ.png
+    Se extrajeron 7 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMTk5NiwiZXhwIjoxNzM4MDE1NTk2LCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMGoyWWIxZWlST2phblJ1Rjh6cFdYTWdyQlU2dlcxREtOMjRMNzlRc25WdFZSOFhDSjd2Q1E0M2xFcGluSXNEdXpsb2Q4MTBxcmlkcTlcL1huRUpRZngxWT0ifQ.Fz1Vn15388mCJQ7uqfY4Fn_gNRT7VGj615nZSXRWOuw
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ/Ebook -- 51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ/51659-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON JORGE MUÑOZ GUTIERREZ FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=51659-2024
+Procesando causa => RIT=47861-2024, Carat=MEZA/I.CORTE DE APELACIONES DE SAN MIGUEL
+
+
+
+
+  >> procesoCausa(): RIT=47861-2024, Caratulado=MEZA/I.CORTE DE APELACIONES DE SAN MIGUEL
+    [DEBUG] Intento #1 para abrir modal => 47861-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/Litigantes - 47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL.png
+    Se extrajeron 5 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMjAxNiwiZXhwIjoxNzM4MDE1NjE2LCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMG9wMGRkNUhtUkdEbUg0N0hUNko3YWdMYTFDOVQ4TUoweG1SUWczNEkxaHBBVklBTkJxREhhUFA0VGVIZGhRYjk1Y3FWSjJTM0dVUlV2MDB3bHBkUGNRPSJ9.49_NjJk39MIiVtqt3ExN5m7bPePaDbbmCM8XLcjxm7s
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/Ebook -- 47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=47861-2024
+Procesando causa => RIT=30934-2024, Carat=CAT ADMINISTRADORA DE TARJETAS S.A CON JARA
+
+
+
+
+  >> procesoCausa(): RIT=30934-2024, Caratulado=CAT ADMINISTRADORA DE TARJETAS S.A CON JARA
+    [DEBUG] Intento #1 para abrir modal => 30934-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA/Litigantes - 30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA.png
+    Se extrajeron 7 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMjAzMSwiZXhwIjoxNzM4MDE1NjMxLCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMHBsNnA2RGpKNEdIb2hVVHdHeHlIbXgxbkR0ZXlwaXIyeXFBRzVkWTJDaFJwOElwdWR5NFExdU56WWtTQ2owNHhYK0FkWmUrR2tcL3NMTjFBK0c0NThZZz0ifQ.hc3c7z8NV8pq8UJFruutTCMgC8lwgy6SwYFsNCb14l4
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA/Ebook -- 30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA/30934-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A CON JARA FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=30934-2024
+Procesando causa => RIT=25170-2024, Carat=-/-
+
+
+
+
+  >> procesoCausa(): RIT=25170-2024, Caratulado=-/-
+    [DEBUG] Intento #1 para abrir modal => 25170-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/25170-2024 -- -_-/modal.png
+    [INFO] Causa reservada => no se extrae info ni e-book.
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+Procesando causa => RIT=14742-2024, Carat=CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA
+
+
+
+
+  >> procesoCausa(): RIT=14742-2024, Caratulado=CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA
+    [DEBUG] Intento #1 para abrir modal => 14742-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA/Litigantes - 14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA.png
+    Se extrajeron 9 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMjA2MCwiZXhwIjoxNzM4MDE1NjYwLCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMGxXRE5UWVdnN0FoUXllNkh3eEJPZ0kxV0NxdXdFeFVKNHdzUElqaTZndkl2V1dUVHc3WmNJb3FKVVhGSDVrYmlYNW02UzRySzJRRk9aanJ2NGpoakpvPSJ9.LynMya16XohSOB4vLMBNL3igSJ2FQrkEXgeB8FExa3U
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA/Ebook -- 14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA/14742-2024 -- CAT ADMINISTRADORA DE TARJETAS S.A. CON VICTOR FUICA FUICA FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=14742-2024
+Procesando causa => RIT=13354-2024, Carat=JUAN CARLOS ORMEÑOSALINAS/CENCOSUD  S.A. Y OTRO
+
+
+
+
+  >> procesoCausa(): RIT=13354-2024, Caratulado=JUAN CARLOS ORMEÑOSALINAS/CENCOSUD  S.A. Y OTRO
+    [DEBUG] Intento #1 para abrir modal => 13354-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Litigantes - 13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.png
+    Se extrajeron 7 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMjA3NCwiZXhwIjoxNzM4MDE1Njc0LCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMGxcL2Q4VTVCczFcL3BRbkM3ajF4aEd2SlFlMEU0d0R0STRMK2p5bndTRDBrejV4enJnYUExZ0VKSEREaDdIcGNraVwvUDJ0TEoybXBDYTNXTW4zMDBhU2VVPSJ9.niono0Pc5KadBUX-pL1910uBeb4R95z6JHqDKHdMvPs
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Ebook -- 13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=13354-2024
+
+### Procesando Competencia: "Corte Apelaciones" (value=2) ###
+Cortes en Apelaciones: 17
+
+>> Corte Apelaciones - Seleccionando: C.A. de Arica (value=10)
+>>> buscarYProcesar() => competencia="Corte Apelaciones", seleccionado="C.A. de Arica"
+Hizo clic en "Buscar" => Corte Apelaciones - C.A. de Arica
+Loader finalizado => Corte Apelaciones - C.A. de Arica
+Captura => "/Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Screenshots Búsquedas con Causas/Corte Apelaciones - C.A. de Arica.png"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+    [INFO] Página 1: 5 filas. (Acumulado=5, TotalRecords=5)
+    [INFO] Alcanzado totalRecords (5). Stop paginado.
+Se encontraron 5 resultados => Corte Apelaciones - C.A. de Arica
+Procesando causa => RIT=Civil-473-2024, Carat=CAT  ADMINISTRADORA DE TARJETAS S.A./NAVARRO
+
+
+
+
+  >> procesoCausa(): RIT=Civil-473-2024, Caratulado=CAT  ADMINISTRADORA DE TARJETAS S.A./NAVARRO
+    [DEBUG] Intento #1 para abrir modal => Civil-473-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO/Litigantes - Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO.png
+    Se extrajeron 5 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMjA3NCwiZXhwIjoxNzM4MDE1Njc0LCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMGxcL2Q4VTVCczFcL3BRbkM3ajF4aEd2SlFlMEU0d0R0STRMK2p5bndTRDBrejV4enJnYUExZ0VKSEREaDdIcGNraVwvUDJ0TEoybXBDYTNXTW4zMDBhU2VVPSJ9.niono0Pc5KadBUX-pL1910uBeb4R95z6JHqDKHdMvPs
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO/Ebook -- Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO/Civil-473-2024 -- CAT  ADMINISTRADORA DE TARJETAS S.A._NAVARRO FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=Civil-473-2024
+Procesando causa => RIT=Civil-433-2024, Carat=CAT ADMINIST TARJETAS /GALLEGOS
+
+
+
+
+  >> procesoCausa(): RIT=Civil-433-2024, Caratulado=CAT ADMINIST TARJETAS /GALLEGOS
+    [DEBUG] Intento #1 para abrir modal => Civil-433-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS/modal.png
+    Captura litigantes => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS/Litigantes - Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS.png
+    Se extrajeron 5 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxMjA3NCwiZXhwIjoxNzM4MDE1Njc0LCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMGxcL2Q4VTVCczFcL3BRbkM3ajF4aEd2SlFlMEU0d0R0STRMK2p5bndTRDBrejV4enJnYUExZ0VKSEREaDdIcGNraVwvUDJ0TEoybXBDYTNXTW4zMDBhU2VVPSJ9.niono0Pc5KadBUX-pL1910uBeb4R95z6JHqDKHdMvPs
+  [INFO] E-Book guardado => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS/Ebook -- Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS.csv
+    CSV FORMATEADO => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS/Civil-433-2024 -- CAT ADMINIST TARJETAS _GALLEGOS FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=Civil-433-2024
+Procesando causa => RIT=Policia Local-96-2024, Carat=CAT. ADMINISTRADORA DE TARJETAS S.A./
+
+
+
+
+  >> procesoCausa(): RIT=Policia Local-96-2024, Caratulado=CAT. ADMINISTRADORA DE TARJETAS S.A./
+    [DEBUG] Intento #1 para abrir modal => Policia Local-96-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /Users/alexssander/Desktop/pjud dev/v13 docker/1.0.5/resultados/Detalles Causas Encontradas/Policia Local-96-2024 -- CAT. ADMINISTRADORA DE TARJETAS S.A._/modal.png

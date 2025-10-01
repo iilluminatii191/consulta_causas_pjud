@@ -1,4 +1,0 @@
-RUT:79556490
-DV:k
-Year:2024
-Destino:/Users/alexssander/Desktop/resultados

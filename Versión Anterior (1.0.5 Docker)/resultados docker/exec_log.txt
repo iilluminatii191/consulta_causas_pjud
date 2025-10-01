@@ -1,0 +1,151 @@
+[Modo2] Entrando a oficinajudicialvirtual.pjud.cl
+Se detectó un modal => cerrándolo...
+Modal(es) cerrados ok.
+Clic en "Consulta causas"
+Clic en "Búsqueda por Rut Persona Jurídica"
+
+[Modo2] => Competencia="Corte Suprema", Seleccion="Suprema", RIT="47861-2024"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+[INFO] RIT="47861-2024" encontrado en página 1.
+[Modo2] procesando => RIT=47861-2024
+
+
+
+
+  >> procesoCausa(): RIT=47861-2024, Caratulado=MEZA/I.CORTE DE APELACIONES DE SAN MIGUEL
+    [DEBUG] Intento #1 para abrir modal => 47861-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /app/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/modal.png
+    Captura litigantes => /app/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/Litigantes - 47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL.png
+    Se extrajeron 5 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxNTI3NiwiZXhwIjoxNzM4MDE4ODc2LCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMG9wMGRkNUhtUkdEbUg0N0hUNko3YWdMYTFDOVQ4TUoweG1SUWczNEkxaHBBVklBTkJxREhhUFA0VGVIZGhRYjk1Y3FWSjJTM0dVUlV2MDB3bHBkUGNRPSJ9.0Kg0ODI106JXt2LS-JSVxr9lFsD3ghk8r33dN0_PYAw
+  [INFO] E-Book guardado => /app/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/Ebook -- 47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /app/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL.csv
+    CSV FORMATEADO => /app/resultados/Detalles Causas Encontradas/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL/47861-2024 -- MEZA_I.CORTE DE APELACIONES DE SAN MIGUEL FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=47861-2024
+
+[Modo2] => Competencia="Corte Suprema", Seleccion="Suprema", RIT="13354-2024"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+[INFO] RIT="13354-2024" encontrado en página 1.
+[Modo2] procesando => RIT=13354-2024
+
+
+
+
+  >> procesoCausa(): RIT=13354-2024, Caratulado=JUAN CARLOS ORMEÑOSALINAS/CENCOSUD  S.A. Y OTRO
+    [DEBUG] Intento #1 para abrir modal => 13354-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /app/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/modal.png
+    Captura litigantes => /app/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Litigantes - 13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.png
+    Se extrajeron 7 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/suprema/documentos/newebooksuprema.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxNTI5MywiZXhwIjoxNzM4MDE4ODkzLCJkYXRhIjoiZDY5Y3BZZTRuXC9wNlRXVW5aU1BVMGxcL2Q4VTVCczFcL3BRbkM3ajF4aEd2SlFlMEU0d0R0STRMK2p5bndTRDBrejV4enJnYUExZ0VKSEREaDdIcGNraVwvUDJ0TEoybXBDYTNXTW4zMDBhU2VVPSJ9.4cnI8bGYUGm2_JjYSbU4vMyuJ1KVOe-ZDm9JYK2Pv8Y
+  [INFO] E-Book guardado => /app/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Ebook -- 13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /app/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.csv
+    CSV FORMATEADO => /app/resultados/Detalles Causas Encontradas/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/13354-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=13354-2024
+
+[Modo2] => Competencia="Corte Apelaciones", Seleccion="C.A. de Arica", RIT="Policia Local-16-2024"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+[INFO] RIT="Policia Local-16-2024" encontrado en página 1.
+[Modo2] procesando => RIT=Policia Local-16-2024
+
+
+
+
+  >> procesoCausa(): RIT=Policia Local-16-2024, Caratulado=MARIA CRISTIAN TORO NUÑEZ Y OTRO/CAT. ADMINISTRADORA DE TARJETAS S.A.
+    [DEBUG] Intento #1 para abrir modal => Policia Local-16-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /app/resultados/Detalles Causas Encontradas/Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A./modal.png
+    Captura litigantes => /app/resultados/Detalles Causas Encontradas/Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A./Litigantes - Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A..png
+    Se extrajeron 6 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/apelaciones/documentos/newebookapelaciones.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxNTMyMCwiZXhwIjoxNzM4MDE4OTIwLCJkYXRhIjoiWUhYMk51T1dZVjNEcW5cL1dxcWRkYzZQakFTQ2RDUmJYTVFXdG5UcW9GSDhcL0k2WVwvU1ZZaXF2NDFuUStJMkpJVHZMcnJ6akU4bEJlVHIzS0g5bEpHYjBhTjdWd1B2bmxpSHIrRExoeWdZZEU9In0.1J0U6CaxfH-hAE2DFyVxEph3WgS9bjdDRAMQAigvONo
+  [INFO] E-Book guardado => /app/resultados/Detalles Causas Encontradas/Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A./Ebook -- Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A..pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /app/resultados/Detalles Causas Encontradas/Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A./Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A..csv
+    CSV FORMATEADO => /app/resultados/Detalles Causas Encontradas/Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A./Policia Local-16-2024 -- MARIA CRISTIAN TORO NUÑEZ Y OTRO_CAT. ADMINISTRADORA DE TARJETAS S.A. FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=Policia Local-16-2024
+
+[Modo2] => Competencia="Corte Apelaciones", Seleccion="C.A. de Arica", RIT="Protección-53-2024"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+[INFO] RIT="Protección-53-2024" encontrado en página 1.
+[Modo2] procesando => RIT=Protección-53-2024
+
+
+
+
+  >> procesoCausa(): RIT=Protección-53-2024, Caratulado=JUAN CARLOS ORMEÑOSALINAS/CENCOSUD  S.A. Y OTRO
+    [DEBUG] Intento #1 para abrir modal => Protección-53-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /app/resultados/Detalles Causas Encontradas/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/modal.png
+    Captura litigantes => /app/resultados/Detalles Causas Encontradas/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Litigantes - Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.png
+    Se extrajeron 7 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/apelaciones/documentos/newebookapelaciones.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxNTM0MSwiZXhwIjoxNzM4MDE4OTQxLCJkYXRhIjoiWUhYMk51T1dZVjNEcW5cL1dxcWRkYzBuNlpYaFJvWXA5amtVSENRQ2xCelpPb0pTQlo5bXVnYVwvaEs5dGNJbGZ0UEZ1eVYzeUdsUVhyamNpblNcL2IwSnRndEU0ZGQ1K0l1SzFmQW9ub3hnOTA9In0.9pqkXBI-XJE8xj-HsTVGsqD0j1F64H6nlv_KoKi4IWc
+  [INFO] E-Book guardado => /app/resultados/Detalles Causas Encontradas/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Ebook -- Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /app/resultados/Detalles Causas Encontradas/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO.csv
+    CSV FORMATEADO => /app/resultados/Detalles Causas Encontradas/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO/Protección-53-2024 -- JUAN CARLOS ORMEÑOSALINAS_CENCOSUD  S.A. Y OTRO FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=Protección-53-2024
+
+[Modo2] => Competencia="Corte Apelaciones", Seleccion="C.A. de Valparaíso", RIT="Policia Local-531-2024"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+[INFO] RIT="Policia Local-531-2024" encontrado en página 1.
+[Modo2] procesando => RIT=Policia Local-531-2024
+
+
+
+
+  >> procesoCausa(): RIT=Policia Local-531-2024, Caratulado=ZÚÑIGA/CAT. ADMINISTRADORA DE TARJETAS S.A.
+    [DEBUG] Intento #1 para abrir modal => Policia Local-531-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /app/resultados/Detalles Causas Encontradas/Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A./modal.png
+    Captura litigantes => /app/resultados/Detalles Causas Encontradas/Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A./Litigantes - Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A..png
+    Se extrajeron 4 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/apelaciones/documentos/newebookapelaciones.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxNTM2NSwiZXhwIjoxNzM4MDE4OTY1LCJkYXRhIjoiZ0RwXC95TDZUcitSa2FJQW94MUNkOVh0ZWQ1SGFuMnRUTjU4dzVRMWdpdjAwMW81V1wvMGhYOWdTUGFOdE12STE4bGVWcVJTQUFEUTA4MnNRU2dKTVpsMlVkdmNrZFhMUnJZYWgwWEJ4aXlCTT0ifQ.UX67HEa23iI9nV3iN4kBqFKSOjWp-oj3HGR2JvPk4Qg
+  [INFO] E-Book guardado => /app/resultados/Detalles Causas Encontradas/Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A./Ebook -- Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A..pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /app/resultados/Detalles Causas Encontradas/Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A./Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A..csv
+    CSV FORMATEADO => /app/resultados/Detalles Causas Encontradas/Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A./Policia Local-531-2024 -- ZÚÑIGA_CAT. ADMINISTRADORA DE TARJETAS S.A. FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=Policia Local-531-2024
+
+[Modo2] => Competencia="Corte Apelaciones", Seleccion="C.A. de Valparaíso", RIT="Policia Local-287-2024"
+[INFO] Loader .imgLoad no apareció => Waiting for selector `.imgLoad` failed: Waiting failed: 5000ms exceeded
+[INFO] RIT="Policia Local-287-2024" encontrado en página 1.
+[Modo2] procesando => RIT=Policia Local-287-2024
+
+
+
+
+  >> procesoCausa(): RIT=Policia Local-287-2024, Caratulado=PACOMIO/CAT. ADMINISTRADORA DE TARJETAS S.A.
+    [DEBUG] Intento #1 para abrir modal => Policia Local-287-2024
+[DEBUG] Apareció backdrop => modal abierto.
+    [INFO] Modal abierto (attempt 1).
+    Captura modal => /app/resultados/Detalles Causas Encontradas/Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A./modal.png
+    Captura litigantes => /app/resultados/Detalles Causas Encontradas/Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A./Litigantes - Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A..png
+    Se extrajeron 4 filas => litigantes
+
+[DEBUG] E-Book => GET https://oficinajudicialvirtual.pjud.cl/ADIR_871/apelaciones/documentos/newebookapelaciones.php?dtaEbook=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvb2ZpY2luYWp1ZGljaWFsdmlydHVhbC5wanVkLmNsIiwiYXVkIjoiaHR0cHM6XC9cL29maWNpbmFqdWRpY2lhbHZpcnR1YWwucGp1ZC5jbCIsImlhdCI6MTczODAxNTM4NCwiZXhwIjoxNzM4MDE4OTg0LCJkYXRhIjoiZ0RwXC95TDZUcitSa2FJQW94MUNkOVczNVFwWDViTmVsUHltV3ZWSHFpTlk5UjR6dm9MVERKNzBsVk5ZUEh1ZzZoaWJ1V0FxUXhiSjZwamdSd21USWtRaVl4NzU3aHBnR3MwdG13R3NXUk0wPSJ9.aFTFbfzygp8L47DodEl2NWHOBDLxmC753MZ3hJIGwcY
+  [INFO] E-Book guardado => /app/resultados/Detalles Causas Encontradas/Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A./Ebook -- Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A..pdf
+  [INFO] Cerrando modal (attempt 1).
+  [INFO] Modal(es) cerrados.
+    CSV => /app/resultados/Detalles Causas Encontradas/Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A./Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A..csv
+    CSV FORMATEADO => /app/resultados/Detalles Causas Encontradas/Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A./Policia Local-287-2024 -- PACOMIO_CAT. ADMINISTRADORA DE TARJETAS S.A. FORMATEADO.csv
+    [INFO] ProcesoCausa finalizado => RIT=Policia Local-287-2024
+
+[Modo2] => Competencia="Corte Apelaciones", Seleccion="C.A. de Concepción", RIT="Protección-1359-2024"
